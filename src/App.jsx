@@ -7,11 +7,11 @@ import Images from './components/Images'
 function App() {
   return(
     <>
-      <img src="../src/assets/hero2.jpg" alt="" className='kk'/>
+      <img src="https://i.postimg.cc/wMMhp6H2/hero2.jpg" alt="" className='kk'/>
       <img src="./src/assets/hero2.jpg" alt="" className='kk'/>
       <img src="..///src/assets/hero2.jpg" alt="" className='kk'/>
       <img src="..//src/assets/hero2.jpg" alt="" className='kk'/>
-      <Images src='../src/assets/hero2.jpg'/>
+      <Images src='https://i.postimg.cc/wMMhp6H2/hero2.jpg'/>
       <Images src='..//src/assets/hero2.jpg'/>
       <Images src='src/assets/hero2.jpg'/>
       <Images src='./src/assets/hero2.jpg'/>
